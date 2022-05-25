@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "b6ca11ac-dd68-408f-a1e4-8ba40aae7482",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "noTelp": "5748546858"
+    },
+    {
+      "id": "6b7312a1-72c2-483f-9bef-c025b49fac04",
+      "name": "riko1",
+      "email": "user@gmail.com",
+      "noTelp": "090897892"
+    },
+    {
+      "id": "e8d7202d-7ced-4f6f-901b-8c62a05b2585",
+      "name": "Ramadhan1",
+      "email": "rikoairlan57@gmail.com",
+      "noTelp": "24324235235"
+    },
+    {
+      "id": "22f0dd3b-e60d-48d7-b31a-bba521e65ff2",
+      "name": "Rikoairlan",
+      "email": "testuser@gmail.com",
+      "noTelp": "1212413241121"
+    }
+  ]
+}
